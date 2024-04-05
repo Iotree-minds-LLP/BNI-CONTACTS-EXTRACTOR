@@ -1,0 +1,4 @@
+selenium==4.19.0
+beautifulsoup4==4.12.3
+pandas==2.2.1
+py2app==0.28.7
